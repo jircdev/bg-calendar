@@ -1,0 +1,27 @@
+{
+  "code": {
+    "name": "jida-calendar",
+    "id": "jida-calendar",
+    "description": "Componente para manejo de calendario",
+    "imports": "imports.js",
+    "jsx": {
+      "path": "jsx",
+      "files": [
+        "context.jsx",
+        "*"
+      ]
+    },
+    "js": {
+      "path": "js",
+      "files": [
+        "*"
+      ]
+    },
+    "scss": {
+      "path": "scss",
+      "files": [
+        "*"
+      ]
+    }
+  }
+}

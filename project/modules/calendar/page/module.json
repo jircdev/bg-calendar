@@ -1,0 +1,20 @@
+{
+  "page": {
+    "route": "/jida/calendar",
+    "layout": "default",
+    "imports": "imports.js",
+    "jsx": "view.jsx",
+    "js": {
+      "path": "js",
+      "files": [
+        "*"
+      ]
+    },
+    "scss": {
+      "path": "scss",
+      "files": [
+        "*"
+      ]
+    }
+  }
+}
